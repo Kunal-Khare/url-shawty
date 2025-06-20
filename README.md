@@ -26,13 +26,3 @@
 4. Access your dashboard to view all links you’ve shortened, track their performance, and manage them as needed.
 
 Shawty is ideal for anyone looking to simplify link sharing while maintaining full control and insight over their URLs. Whether you’re an individual, marketer, or developer, Shawty combines ease of use with powerful tracking and management features.
-
-[1] https://blog.algomaster.io/p/design-a-url-shortener
-[2] https://stackoverflow.com/questions/1562367/how-do-short-urls-services-work
-[3] https://www.reddit.com/r/SaaS/comments/1hab6fs/open_source_link_shortener_with_nextlevel_features/
-[4] https://short.io/features
-[5] https://github.com/uosyph/url-shortener
-[6] https://www.summarize.tech/www.youtube.com/watch?v=geIwBIuo-ug
-[7] https://codingchallenges.fyi/challenges/challenge-url-shortener/
-[8] https://www.youtube.com/watch?v=rAq9xJTB0P8
-[9] https://www.linkedin.com/posts/nishant-paliwal-473a50262_vite-react-activity-7213544536944336897-3pgO
